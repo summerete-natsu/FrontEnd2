@@ -1,0 +1,18 @@
+.topBar{
+    align-items: center;
+    height:20px;
+    background-color: aquamarine;
+    color:black;  
+    display:flex;  
+}
+.topMenu{
+    position:absolute;
+    flex:left;
+}
+.toggle-item1{
+    flex:0 0 10px;
+    
+}
+.toggle-item2{
+    flex: 2;
+}
